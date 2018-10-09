@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="textView_billAmount">Enter Amount</string>
+    <string name="textView_tipAmount">Tip</string>
+    <string name="textView_totalAmount">Total</string>
+    <string name="no">no</string>
+    <string name="tip">tip</string>
+    <string name="total">total</string>
+    <string name="tipRadioLabel">Rounding</string>
+    <string name="tipSpinnerLabel">Split Bill</string>
+    <string name="PerPersonAmount">Per Person</string>
+    <string name="info">info</string>
+    <string name="share">share</string>
+
+</resources>
